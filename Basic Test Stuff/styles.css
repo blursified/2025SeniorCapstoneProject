@@ -83,3 +83,9 @@ blockquote {
     border-style:solid; 
     border-radius: 25px; 
 }
+
+a {
+    font-family: "Papyrus", fantasy; 
+    font-size: 30px; 
+    color: rgb(214, 130, 130);
+}
