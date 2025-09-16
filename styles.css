@@ -89,3 +89,10 @@ a {
     font-size: 30px; 
     color: rgb(214, 130, 130);
 }
+
+label {
+    margin-left: 10px; 
+    font-family: "Papyrus", fantasy; 
+    font-size: 20px; 
+}
+
